@@ -39,15 +39,19 @@ body {
 	border-radius: 4px;
 	border: none;
 }
-.buttons-block .btn#inc {
+.buttons-block .btn-inc {
 	background-color: #089c20;
 }
-.buttons-block .btn#dec {
+.buttons-block .btn-dec {
 	background-color: #e7aa10;
 	margin: auto 34px;
 }
-.buttons-block .btn#rst {
+.buttons-block .btn-rst {
 	background-color: #cf1c1c;
+}
+.buttons-block .btn-rnd {
+	background-color: #6a1ccf;
+	margin-right: 34px;
 }
 .buttons-block .btn img {
 	width: 40px;
